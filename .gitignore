@@ -1,0 +1,27 @@
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Rider files
+.idea/
+
+# Ignore OS generated files
+*.DS_Store
+Thumbs.db
+
+# Ignore build files
+/Build/
+/Library/
+/Temp/
+/Obj/
+/bin/
+/Builds/
+
+# Ignore custom build folder
+/CustomBuilds/
+
+# Ignore Android generated files
+/build/
+
+# Ignore iOS generated files
+/Pods/
+/xcuserdata/
